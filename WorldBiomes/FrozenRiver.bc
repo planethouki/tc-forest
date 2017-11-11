@@ -413,7 +413,7 @@ OceanMonumentsEnabled: true
 NetherFortressesEnabled: true
 
 # Whether Woodland Mansions are enabled in this biome.
-MansionsEnabled: true
+MansionsEnabled: false
 
 # The village type in this biome. Can be wood, sandstone or disabled.
 VillageType: disabled
